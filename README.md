@@ -154,4 +154,4 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Byenkya Joshua Aaron - [Github](https://github.com/Byenkya)
+Bazirakye Tonny - [Github](https://github.com/bazirakye)
